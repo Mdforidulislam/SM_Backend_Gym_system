@@ -5,7 +5,9 @@ This is a fitness class booking and management system API that allows trainers a
 
 ## Relation Diagram
 [View Database Relation Diagram](https://lucid.app/lucidchart/64630d7c-8d19-4ca1-90a7-cbcc1b1b899b/edit?viewport_loc=68%2C304%2C2217%2C1087%2C0_0&invitationId=inv_45dd631e-07d8-4b7c-b4ea-f7b643eba5cb)
+## Application diagram
 [view application Diagram](https://lucid.app/lucidchart/bde22bfc-b4cb-4c22-8ef7-038c5662a01e/edit?viewport_loc=-3606%2C-520%2C2740%2C1343%2C0_0&invitationId=inv_0b438628-b8a0-4ba3-bf2a-8a3627d3d65b)
+## application end point documtion
 [end point Documtion](https://docs.google.com/document/d/1KVronffBZZiTXyuKZWUwG-cFnid1uFIt1H5J__Se5z0/edit?usp=sharing)
 
 ### Postman share end point 
